@@ -11,4 +11,9 @@ Main Method
 package com.lightning.employee
 Class EmployeeApplication
 
+I have use runtime Apache Derby DB for Store Employee Records.
+
+Java will be running on default port.
+http://localhost:8080
+
 Or You can import this Module to IDE as Maven and run directly from there.
