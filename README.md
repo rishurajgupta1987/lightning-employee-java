@@ -11,4 +11,4 @@ Main Method
 package com.lightning.employee
 Class EmployeeApplication
 
-Or You can import this Module to IDE as Maven and run directly from ther.
+Or You can import this Module to IDE as Maven and run directly from there.
